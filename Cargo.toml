@@ -1,0 +1,10 @@
+[package]
+name = "braun"
+version = "0.1.0"
+authors = ["Brennan Chesley <holtchesley@example.com>"]
+
+[dependencies]
+ws = "*"
+clap = "2.24.1"
+url = "1.4.0"
+lazy_static = "*"
